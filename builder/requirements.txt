@@ -1,0 +1,6 @@
+# RunPod vLLM Worker Dependencies
+runpod>=1.7.0
+vllm==0.6.4.post1
+transformers>=4.45.0
+accelerate
+sentencepiece
